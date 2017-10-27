@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    text-align: center;
+    background-color: blue;
+    font-family: Berkshire Swash;
+}
+
+h2{
+    color: rgb(255, 94, 0);
+    font-size: 40px;
+}
+
+h3{
+    color: rgb(255, 94, 0);
+    font-size: 30px;
+}
+
+
+input{
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(255, 94, 0);
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
